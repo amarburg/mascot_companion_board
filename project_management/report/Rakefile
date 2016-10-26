@@ -1,3 +1,0 @@
-require 'aarons_gem/rake/latex'
-
-LatexProject.new('MaSCOT_Final_Report')
